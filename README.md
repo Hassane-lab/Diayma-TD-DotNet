@@ -2,7 +2,7 @@
 
 **Université Cheikh Anta Diop, École Supérieure Polytechnique, Département Génie Informatique**
 **Enseignement .NET, TD du 03 novembre 2026**
-**Étudiant(e)** : VOTRE NOM
+**Étudiant** : Hassane Salam DIA
 
 Dépôt personnel : **Diayma-TD-DotNet** (public), branche `master`.
 
