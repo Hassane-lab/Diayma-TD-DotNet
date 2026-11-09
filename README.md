@@ -117,3 +117,9 @@ Ensuite, la page des produits s'affiche dans le navigateur.
 
 **CartSummaryViewComponent, constructeur.**
 ![CartSummaryViewComponent](docs/images/13-cartsummary-ctor.jpeg)
+
+## 10. Tâches 9 et 10 : exécutable Windows
+Commande de publication (autonome, Windows 64 bits) :
+`dotnet publish -c Release -r win-x64 --self-contained -o publish`
+L'option « fichier unique » n'existe pas avec .NET Core 2.0 : l'exécutable `Diayma.exe` est livré avec ses DLL dans un dossier compressé.
+Lien : https://drive.google.com/file/d/18VDZcy6f7F9aPCrIAPUQ_bKJn99mtwBy/view?usp=sharing
